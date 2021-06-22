@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .container-fluid{
-    background-color: #3788F7;
+    background-color: hsl(249, 78%, 49%);
 }
 .nav-item{
     text-align: center;
