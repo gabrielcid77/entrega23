@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .container-fluid{
-    background-color: hsl(249, 78%, 49%);
+    background-color: #3788F7;
 }
 .nav-item{
     text-align: center;
@@ -62,9 +62,10 @@
     margin: 2px;
 }
 .btn-primary{
-    padding: 2px;
-    margin: 30%;
-    text-align:center;
+    
+    margin:40%;
+    padding: 1px;
+    
 }
 h3{
     font-size: 40px;
@@ -73,11 +74,10 @@ h3{
     margin: 0 auto;
     font-size: calc(2em + 1vw)
 }
-.container2{
-     max-width: 100%;
-     display:flex;  
-}
-.row2{  
-    width: 50%;
-    margin: 2px;   
-}
+.convenio{
+    width: 612px;
+    padding: 1px;
+    border: 2px solid black;
+    }
+
+
